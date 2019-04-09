@@ -1,0 +1,12 @@
+body {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 54px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+  margin: 0; }
+
